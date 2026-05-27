@@ -182,14 +182,14 @@ tr.linha-selecionada {
   background-color: black;
 }
 
-/* Estilo para quando o botão for desativado (Indisponível) */
+/* estilizando o indisponível */
 .btn-escolher:disabled {
   background-color: #e0e0e0 !important;
   color: #a0a0a0 !important;
   cursor: not-allowed;
 }
 
-/* Classe utilitária para deixar o texto Agendado em verde */
+/* agendado*/
 .texto-agendado {
   color: #27ae60;
   font-weight: bold;
